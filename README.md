@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shane Devane
 
-## Looking for startup technical advise or free Freactional CTO (fCTO) advise?
+#### Looking for startup technical advise or free Freactional CTO (fCTO) advise?
 https://calendly.com/shanedevane/20-mins
 
 ### An experienced Python developer

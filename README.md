@@ -2,7 +2,7 @@
 
 #### Looking for startup technical advise or free Freactional CTO (fCTO) advise?
 <a href="https://calendly.com/shanedevane/20-mins
-" target=_blank>https://calendly.com/shanedevane/20-mins
+" target="_blank">https://calendly.com/shanedevane/20-mins
 </a>
 
 
